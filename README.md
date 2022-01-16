@@ -3,3 +3,4 @@ Regression model for predicting profitibility of startups based on existing data
 
 statsmodel.formula.api is used to build the regression model.
 
+Data - 50_Startups.csv
